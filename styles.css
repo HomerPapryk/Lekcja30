@@ -1,0 +1,13 @@
+.parent-div {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+}
+
+.child-div {
+  width: 33.33%;
+  box-sizing: border-box;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #000;
+}
