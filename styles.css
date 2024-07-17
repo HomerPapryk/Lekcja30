@@ -1,13 +1,8 @@
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
 .parent-div {
   width: 90%;
   margin: 0 auto;
   display: flex;
+  box-sizing: border-box;
 }
 
 .child-div {
